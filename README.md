@@ -1,0 +1,3 @@
+# data_warehouse
+ This project aims to build a fully dockerized data warehousing tech stack. It utilizes different data engineering tools like PostgreSQL, Airflow, DBT and Redash. PostgreSql is used for data ware house, DBT for data transforming and airflow for automation and orchestrations. Finally, a redash dashboard will be built by connecting it to our data warehouse.
+The Data used for this project is from open-source dataset called PNeuma which is an open large-scale dataset of naturalistic trajectories of half a million vehicles that have been collected by a one-of-a-kind experiment by a swarm of drones in the congested downtown area of Athens, Greece.
